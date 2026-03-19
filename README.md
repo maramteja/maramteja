@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Tej Joshi 👋</h1>
+<h1 align="center">Hey, I'm Teja maram👋</h1>
 <p align="center">
   <b>Senior Software Developer · AI Solutions Engineer</b><br/>
   Building voice AI agents, developer tooling & intelligent EdTech platforms
